@@ -44,16 +44,16 @@ Devices in different VLANs were unable to communicate, confirming Layer 2 isolat
 
 Network Topology
 
-![Network Topology](https://github.com/Eli-Samachurl/vlan-segmentation-lab/blob/main/topology.png?raw=true)
+![Network Topology](screenshots/topology.png)
 
 VLAN Configuration
 
-![VLAN Configuration](https://github.com/Eli-Samachurl/vlan-segmentation-lab/blob/main/show_vlan_brief.png?raw=true)
+![VLAN Configuration](screenshots/show_vlan_brief.png)
 
 Successful Ping Test
 
-![Successful Ping Test](https://github.com/Eli-Samachurl/vlan-segmentation-lab/blob/main/ping_success.png?raw=true)
+![Successful Ping Test](screenshots/ping_success.png)
 
 Failed Ping Test
 
-![Failed Ping Test](https://github.com/Eli-Samachurl/vlan-segmentation-lab/blob/main/ping_fail.png?raw=true)
+![Failed Ping Test](screenshots/ping_fail.png)
