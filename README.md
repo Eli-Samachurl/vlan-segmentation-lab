@@ -42,4 +42,18 @@ Devices in different VLANs were unable to communicate, confirming Layer 2 isolat
 
 ## Screenshots
 
-(Images will be added below.)
+Network Topology
+
+![Topology]()
+
+VLAN Configuration
+
+![VLAN Configuration]()
+
+Successful Ping Test
+
+![Successful Ping]()
+
+Failed Ping Test
+
+![Failed Ping]()
